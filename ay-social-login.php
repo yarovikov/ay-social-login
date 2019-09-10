@@ -9,7 +9,7 @@
 * Domain Path: /languages
 * License:     GPL2
 * License URI: https://www.gnu.org/licenses/gpl-2.0.html
-* Version:     1.0.0
+* Version:     1.0.1
 */
 
 
@@ -53,7 +53,7 @@ class AYSocialLogin {
 	
 	
 	function ay_sl_scripts() {			
-		wp_enqueue_style( 'ay-social-login', plugin_dir_url( __FILE__ ) . 'ay-social-login.css', null, '1.0.0' );
+		wp_enqueue_style( 'ay-social-login', plugin_dir_url( __FILE__ ) . 'ay-social-login.css', null, '1.0.1' );
 	}
 	
 	
@@ -102,7 +102,7 @@ class AYSocialLogin {
 					'code'          => $_GET['code'] 
 				);
 		 		
-				$tokenresponse = wp_remote_get( 'https://graph.facebook.com/v3.2/oauth/access_token?' . http_build_query( $params_fb ) );
+				$tokenresponse = wp_remote_get( 'https://graph.facebook.com/v4.0/oauth/access_token?' . http_build_query( $params_fb ) );
 		 		
 				$token = json_decode( wp_remote_retrieve_body( $tokenresponse ) );
 				
@@ -119,7 +119,7 @@ class AYSocialLogin {
 		
 					);
 		 		
-					$useresponse = wp_remote_get( 'https://graph.facebook.com/v3.2/me' . '?' . urldecode( http_build_query( $params_fb ) ) );			
+					$useresponse = wp_remote_get( 'https://graph.facebook.com/v4.0/me' . '?' . urldecode( http_build_query( $params_fb ) ) );			
 		 		
 					$ay_user = json_decode( wp_remote_retrieve_body( $useresponse ) );
 					
@@ -127,7 +127,7 @@ class AYSocialLogin {
 					$ay_user_id = $ay_user->id;
 					$ay_user_first_name = $ay_user->first_name;
 					$ay_user_last_name = $ay_user->last_name;
-					$ay_user_avatar = $ay_user->picture->data->url;
+					$ay_user_avatar = 'https://graph.facebook.com/' . $ay_user_id . '/picture?type=large';
 					$ay_user_link = '';	
 					
 				}				
