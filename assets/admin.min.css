@@ -1,0 +1,15 @@
+.wrap.theme-info.aysl-options h2 {
+  font-weight: 500;
+  margin: 1.5em 0 0.5em;
+  font-size: 1em; }
+
+.wrap.theme-info.aysl-options table {
+  max-width: 600px; }
+  .wrap.theme-info.aysl-options table th {
+    display: none; }
+  .wrap.theme-info.aysl-options table td {
+    padding: 20px 0; }
+    .wrap.theme-info.aysl-options table td input {
+      width: 100%;
+      max-width: 300px; }
+

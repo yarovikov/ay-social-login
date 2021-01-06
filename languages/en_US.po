@@ -1,0 +1,1659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ay\n"
+"POT-Creation-Date: 2021-01-06 11:16+0300\n"
+"PO-Revision-Date: 2021-01-06 11:16+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: inc/acf\n"
+"X-Poedit-SearchPathExcluded-2: inc/multifile-for-contact-form-7.php\n"
+"X-Poedit-SearchPathExcluded-3: node_modules\n"
+"X-Poedit-SearchPathExcluded-4: package.json\n"
+"X-Poedit-SearchPathExcluded-5: package-lock.json\n"
+"X-Poedit-SearchPathExcluded-6: webpack.config.js\n"
+"X-Poedit-SearchPathExcluded-7: inc/acf-blocks.php\n"
+"X-Poedit-SearchPathExcluded-8: inc/acf-fields.php\n"
+"X-Poedit-SearchPathExcluded-9: inc/more-options-page.php\n"
+
+#: inc/aysl-functions.php:5
+msgid "Facebook Client ID"
+msgstr ""
+
+#: inc/aysl-functions.php:8
+msgid "Facebook Client Secret"
+msgstr ""
+
+#: inc/aysl-functions.php:13
+msgid "VK Client ID"
+msgstr ""
+
+#: inc/aysl-functions.php:16
+msgid "VK Client Secret"
+msgstr ""
+
+#: inc/aysl-functions.php:28
+msgid "AY Social Login Options"
+msgstr ""
+
+#: inc/aysl-functions.php:34
+msgid "Сохранить"
+msgstr "Save"
+
+#: inc/class-admin-aysl.php:16 inc/class-admin-aysl.php:17
+msgid "AY Social Login"
+msgstr ""
+
+#: inc/class-aysl.php:137 inc/class-aysl.php:183
+msgid "Response error"
+msgstr ""
+
+#~ msgid "Кастом-ателье BOX39"
+#~ msgstr "Motorcycle Custom Shop BOX39"
+
+#~ msgid "Имя"
+#~ msgstr "Name"
+
+#~ msgid "Телефон или E-mail"
+#~ msgstr "Phone or E-mail"
+
+#~ msgid "Пожелания"
+#~ msgstr "Comment"
+
+#~ msgid "Заявка отправлена"
+#~ msgstr "Request has been sent!"
+
+#~ msgid "Необходимо заполнить все поля"
+#~ msgstr "All fields are required"
+
+#~ msgid "Цены ориентировочные, реальная стомость проекта будет известна после согласования"
+#~ msgstr "Prices are approximate, the real cost will be known after project approval"
+
+#~ msgid "Отправить заявку"
+#~ msgstr "Send a request"
+
+#~ msgid "Не является <a href=\"%s\">офертой</a>, далее мы продолжим согласование проекта"
+#~ msgstr "Is not an <a href=\"%s\">offer</a>, then we will continue to coordination the project"
+
+#~ msgid "В течение нескольких дней мы свяжемся с вами для дальнейшего согласования проекта"
+#~ msgstr "We will contact you shortly to discuss the project"
+
+#~ msgid "Комплект колес"
+#~ msgstr "Kit"
+
+#~ msgid "Переднее"
+#~ msgstr "Front"
+
+#~ msgid "Заднее"
+#~ msgstr "Rear"
+
+#~ msgid "Комплект"
+#~ msgstr "Wheels Kit"
+
+#~ msgid "Страницы:"
+#~ msgstr "Pages:"
+
+#~ msgid "Метки"
+#~ msgstr "Tags"
+
+#~ msgid "Заголовок"
+#~ msgstr "Title"
+
+#~ msgid "Миниатюры"
+#~ msgstr "Thumbs"
+
+#~ msgid "Описание"
+#~ msgstr "Description"
+
+#~ msgid "Картинки"
+#~ msgstr "Images"
+
+#~ msgid "Картинка"
+#~ msgstr "Image"
+
+#~ msgid "Дополнительно"
+#~ msgstr "Theme Options"
+
+#~ msgid "Колонки"
+#~ msgstr "Columns"
+
+#~ msgid "Написать в WhatsApp"
+#~ msgstr "Contact on WhatsApp"
+
+#~ msgid "Все права защищены, 2018 г."
+#~ msgstr "All rights are reserved, 2018."
+
+#~ msgid "Общий размер файлов не может быть больше 15 МБ"
+#~ msgstr "Maximum size 15MB for all files"
+
+#~ msgid "Выбрать файлы"
+#~ msgstr "Select files"
+
+#~ msgid "Написать в Facebook"
+#~ msgstr "Contact on Facebook"
+
+#~ msgid "Написать Vkontakte"
+#~ msgstr "Contact on Vkontakte"
+
+#~ msgid "Написать в Messenger"
+#~ msgstr "Contact on Messenger"
+
+#~ msgid "Заказ на сайте"
+#~ msgstr "Online order"
+
+#~ msgid "Обсуждение проекта"
+#~ msgstr "Discussing the project"
+
+#~ msgid "Договор и оплата"
+#~ msgstr "Contact and payment"
+
+#~ msgid "Готовый проект"
+#~ msgstr "Final project"
+
+#~ msgid "За что вы платите в агентствах?"
+#~ msgstr "What do you pay for ordering in other agencies?"
+
+#~ msgid "Вы платите за то, что не влияет на результат"
+#~ msgstr "You pay for something that is not quite related to design"
+
+#~ msgid "Дизайн"
+#~ msgstr "Design"
+
+#~ msgid "Аренда офиса"
+#~ msgstr "Office leasing"
+
+#~ msgid "Оплата менеджерам"
+#~ msgstr "Employees salaries"
+
+#~ msgid "Накладные расходы"
+#~ msgstr "Office supplies"
+
+#~ msgid "За что вы платите в Hardy?"
+#~ msgstr "What do you pay for in Hardy?"
+
+#~ msgid "Вы платите только за дизайн"
+#~ msgstr "Here you pay only for the design"
+
+#~ msgid "Еще отзывы"
+#~ msgstr "More reviews"
+
+#~ msgid "Показать больше кейсов"
+#~ msgstr "Show more projects"
+
+#~ msgid "Логотипы"
+#~ msgstr "Logos"
+
+#~ msgid "Айдентика"
+#~ msgstr "Brand Identity"
+
+#~ msgid "Веб-сайты"
+#~ msgstr "Websites"
+
+#~ msgid "Нажми тут"
+#~ msgstr "Click here"
+
+#~ msgid "Что такое Hardy?"
+#~ msgstr "What is Hardy?"
+
+#~ msgid "Это удаленные онлайн услуги графического и веб дизайна"
+#~ msgstr "This is online graphic and web design agency"
+
+#~ msgid "О нас"
+#~ msgstr "About us"
+
+#~ msgid "Смотреть"
+#~ msgstr "More"
+
+#~ msgid "Вам также может понравиться"
+#~ msgstr "You might also like"
+
+#~ msgid "Другие кейсы"
+#~ msgstr "More projects"
+
+#~ msgid "Вы платите за то, что не влияет на результат."
+#~ msgstr "You pay for something that is not quite relevant to related to design"
+
+#~ msgid "Вы платите только за дизайн."
+#~ msgstr "Here you pay only for the design"
+
+#~ msgid "СЕО"
+#~ msgstr "SEO"
+
+#~ msgid "СЕО описание"
+#~ msgstr "SEO Description"
+
+#~ msgid "Проекты"
+#~ msgstr "Projects"
+
+#~ msgid "Блог"
+#~ msgstr "Blog"
+
+#~ msgid "Новости"
+#~ msgstr "News"
+
+#~ msgid "Все записи"
+#~ msgstr "All Posts"
+
+#~ msgid "Все проекты"
+#~ msgstr "All Projects"
+
+#~ msgid "Все новости"
+#~ msgstr "All News"
+
+#~ msgid "Детали проекта"
+#~ msgstr "About Project"
+
+#~ msgid "Выполняемые работы"
+#~ msgstr "Provided Services"
+
+#~ msgid "Технико-экономические показатели"
+#~ msgstr "Technical Characteristics"
+
+#~ msgid "Период работы"
+#~ msgstr "Period"
+
+#~ msgid "Застройщик"
+#~ msgstr "Construction Company"
+
+#~ msgid "Регион строительства"
+#~ msgstr "Location"
+
+#~ msgid "Редактировать"
+#~ msgstr "Edit"
+
+#~ msgid "Нет ничего"
+#~ msgstr "Not Found"
+
+#~ msgid "Вид"
+#~ msgstr "Grid"
+
+#~ msgid "Все"
+#~ msgstr "All"
+
+#~ msgid "Слайдер"
+#~ msgstr "Slider"
+
+#~ msgid "Блоки"
+#~ msgstr "Content"
+
+#~ msgid "Редактор"
+#~ msgstr "Editor"
+
+#~ msgid "Комментарии: "
+#~ msgstr "Comments:"
+
+#~ msgid "Ваше имя*"
+#~ msgstr "Your Name*"
+
+#~ msgid "Ваш Email*"
+#~ msgstr "Your Email*"
+
+#~ msgid "Комментарий*"
+#~ msgstr "Comment*"
+
+#~ msgid "Увеличить текст"
+#~ msgstr "Increase the text"
+
+#~ msgid "Уменьшить текст"
+#~ msgstr "To reduce the text"
+
+#~ msgid "Черно-белый"
+#~ msgstr "Black-white"
+
+#~ msgid "Добавить контраст"
+#~ msgstr "Contrast"
+
+#~ msgid "Выделить ссылки"
+#~ msgstr "Links border"
+
+#~ msgid "Инверсия"
+#~ msgstr "Invert"
+
+#~ msgid "Место под виджеты"
+#~ msgstr "Add widgets here."
+
+#~ msgid "Боковая колонка"
+#~ msgstr "Sidebar"
+
+#~ msgid "Добавить блок"
+#~ msgstr "Add"
+
+#~ msgid "Стандартный редактор"
+#~ msgstr "WP Editor"
+
+#~ msgid "Отзывы"
+#~ msgstr "Reviews"
+
+#~ msgid "Автоплей"
+#~ msgstr "Autoplay"
+
+#~ msgid "Добавить отзыв"
+#~ msgstr "Add Review"
+
+#~ msgid "Успешных дел"
+#~ msgstr "Successful Cases"
+
+#~ msgid "Довольных клиентов"
+#~ msgstr "Satisfied Clients"
+
+#~ msgid "Законченных дел"
+#~ msgstr "Projects Done"
+
+#~ msgid "Точки"
+#~ msgstr "Dots"
+
+#~ msgid "Слайды"
+#~ msgstr "Slides"
+
+#~ msgid "Добавить слайд"
+#~ msgstr "Add Slide"
+
+#~ msgid "Пагинация"
+#~ msgstr "Pagination"
+
+#~ msgid "Индексация страницы поисковыми системами"
+#~ msgstr "Indexing"
+
+#~ msgid "Запретить"
+#~ msgstr "Noindex"
+
+#~ msgid "Sorry, comments are closed for this item."
+#~ msgstr "Sorry, comments are closed for this item."
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s в %2$s"
+
+#~ msgid "Поделиться"
+#~ msgstr "Share"
+
+#~ msgid "Социальные сети"
+#~ msgstr "Social Links"
+
+#~ msgid "Читать"
+#~ msgstr "Read More"
+
+#~ msgid "Вы искали: %s"
+#~ msgstr "Searching Results: %s"
+
+#~ msgid "Ничего не найдено"
+#~ msgstr "Тo result for your search"
+
+#~ msgid "Поиск"
+#~ msgstr "Search"
+
+#~ msgid "Рубрика"
+#~ msgstr "Category"
+
+#~ msgid "Остальные специализации"
+#~ msgstr "Other specialisations"
+
+#~ msgid "Cтатьи по теме"
+#~ msgstr "Related articles"
+
+#~ msgid "%2$s <a class=\"logout-link\" href=\"%3$s\">Выйти</a>"
+#~ msgstr "%2$s <a class=\"logout-link\" href=\"%3$s\">Logout</a>"
+
+#~ msgid "Ширина 1/2"
+#~ msgstr "1/2 Width"
+
+#~ msgid "Страница не найдена"
+#~ msgstr "Not found"
+
+#~ msgid "Нажмите на лого и начните с главной ;)"
+#~ msgstr "Click on the site logo to go to the homepage or try searching."
+
+#~ msgid "Подвал"
+#~ msgstr "Footer"
+
+#~ msgid "Главное меню"
+#~ msgstr "Primary"
+
+#~ msgid "ID окна"
+#~ msgstr "Popup ID"
+
+#~ msgid "Содержимое страницы"
+#~ msgstr "Content"
+
+#~ msgid "Последние серии"
+#~ msgstr "Works"
+
+#~ msgid "Блог (записи)"
+#~ msgstr "Blog (Posts)"
+
+#~ msgid "Сетка из записей, серий, страниц (выборочно)"
+#~ msgstr "Relationship Grid"
+
+#~ msgid "Слайдер с фотографиями"
+#~ msgstr "Slider"
+
+#~ msgid "Кастомный слайдер"
+#~ msgstr "Custom Slider"
+
+#~ msgid "Слайдер До/После"
+#~ msgstr "Before/After Slider"
+
+#~ msgid "Параллакс-блок"
+#~ msgstr "Parallax"
+
+#~ msgid "Карта с одним маркером"
+#~ msgstr "Google Map"
+
+#~ msgid "Карта с множеством маркеров"
+#~ msgstr "Repeater Google Map"
+
+#~ msgid "Карта с маркерами из постов"
+#~ msgstr "Google Map with markers from Posts"
+
+#~ msgid "Фотографии из VK"
+#~ msgstr "VK Images"
+
+#~ msgid "Блок с HTML5 видео"
+#~ msgstr "HTML5 Video"
+
+#~ msgid "Видео-галерея"
+#~ msgstr "Video Gallery"
+
+#~ msgid "Инстаграм"
+#~ msgstr "Instagram"
+
+#~ msgid "Карта и описание к ней"
+#~ msgstr "Map and Description"
+
+#~ msgid "Ширина блока"
+#~ msgstr "Width"
+
+#~ msgid "По умолчанию 900"
+#~ msgstr "Default 900"
+
+#~ msgid "Надписи До/После"
+#~ msgstr "Labels"
+
+#~ msgid "Поверх фото "
+#~ msgstr "Above"
+
+#~ msgid "Картинка в шапку"
+#~ msgstr "Header Image"
+
+#~ msgid "Ширина серии"
+#~ msgstr "Entry Width"
+
+#~ msgid "Цветовая схема"
+#~ msgstr "Color Scheme"
+
+#~ msgid "По умолчанию"
+#~ msgstr "Default"
+
+#~ msgid "Во всю ширину"
+#~ msgstr "Full Width"
+
+#~ msgid "Используется для формирования поискового сниппета. Поисковики показывают максимум 150-200 символов."
+#~ msgstr "Just description"
+
+#~ msgid "Настройки"
+#~ msgstr "Options"
+
+#~ msgid "Максимальная ширина"
+#~ msgstr "Max Width"
+
+#~ msgid "Ограничение в px"
+#~ msgstr "Limit in px"
+
+#~ msgid "По умолчанию 90%"
+#~ msgstr "Default  90%"
+
+#~ msgid "Верхний отступ"
+#~ msgstr "Margin Top"
+
+#~ msgid "По умолчанию 0"
+#~ msgstr "Default 0"
+
+#~ msgid "Нижний отступ"
+#~ msgstr "Margin Bottom"
+
+#~ msgid "Межстрочный интервал"
+#~ msgstr "Line Height"
+
+#~ msgid "1 - высота буквы"
+#~ msgstr "1 - Height of Letters"
+
+#~ msgid "По умолчанию 1000"
+#~ msgstr "Default 1000"
+
+#~ msgid "Колонок на ряд"
+#~ msgstr "Columns"
+
+#~ msgid "По умолчанию 3"
+#~ msgstr "Default 3"
+
+#~ msgid "Толщина рамок"
+#~ msgstr "Border Width"
+
+#~ msgid "Отступ в %"
+#~ msgstr "Margin"
+
+#~ msgid "По умолчанию 0.5"
+#~ msgstr "Default 0.5"
+
+#~ msgid "Внутренний отступ"
+#~ msgstr "Padding"
+
+#~ msgid "По умолчанию 15"
+#~ msgstr "Default 15"
+
+#~ msgid "Цвет рамок"
+#~ msgstr "Border Color"
+
+#~ msgid "По умолчанию серый"
+#~ msgstr "Default #ccc"
+
+#~ msgid "Разметка"
+#~ msgstr "Layout"
+
+#~ msgid "Столбцы"
+#~ msgstr "Columns"
+
+#~ msgid "Их можно менять местами"
+#~ msgstr "Drag to change order"
+
+#~ msgid "Добавить столбец"
+#~ msgstr "Add Column"
+
+#~ msgid "Цвет фона столбца"
+#~ msgstr "Column Background Color"
+
+#~ msgid "По умолчанию вся ширина"
+#~ msgstr "Default Full Width"
+
+#~ msgid "Превью серий"
+#~ msgstr "Thumbnails"
+
+#~ msgid "Сетка"
+#~ msgstr "Grid"
+
+#~ msgid "Количество серий"
+#~ msgstr "Number"
+
+#~ msgid "По умолчанию все"
+#~ msgstr "Default All"
+
+#~ msgid "Отступ между превью"
+#~ msgstr "Margin"
+
+#~ msgid "Номера страниц"
+#~ msgstr "Page Number"
+
+#~ msgid "Меню рубрик"
+#~ msgstr "Taxonomy Navigation Menu"
+
+#~ msgid "Фильтр по рубрикам"
+#~ msgstr "Category Filter"
+
+#~ msgid "Просмотры"
+#~ msgstr "Views"
+
+#~ msgid "Иконка с цифрой"
+#~ msgstr "Views Icon"
+
+#~ msgid "Стиль заголовка"
+#~ msgstr "Title Style"
+
+#~ msgid "Относительно превью"
+#~ msgstr "Position"
+
+#~ msgid "Под превью"
+#~ msgstr "Below Thumb"
+
+#~ msgid "На превью"
+#~ msgstr "On Thumb"
+
+#~ msgid "Скрыть"
+#~ msgstr "Hide"
+
+#~ msgid "На превью с анимацией"
+#~ msgstr "With Image Animation"
+
+#~ msgid "Показать описание"
+#~ msgstr "Show Description"
+
+#~ msgid "Толщина обводки"
+#~ msgstr "Border Width"
+
+#~ msgid "Цвет обводки"
+#~ msgstr "Border Color"
+
+#~ msgid "Размер заголовка"
+#~ msgstr "Title Size"
+
+#~ msgid "По умолчанию 13px"
+#~ msgstr "Default 13px"
+
+#~ msgid "Размер описания"
+#~ msgstr "Description Text Size"
+
+#~ msgid "Шрифт заголовков"
+#~ msgstr "Title Font"
+
+#~ msgid "По умолчанию Open Sans"
+#~ msgstr "Default Open Sans"
+
+#~ msgid "Шрифт описания"
+#~ msgstr "Description Font"
+
+#~ msgid "Рубрики"
+#~ msgstr "Categories"
+
+#~ msgid "Лента"
+#~ msgstr "List"
+
+#~ msgid "Шахматный порядок"
+#~ msgstr "Chess"
+
+#~ msgid "Пинтерест"
+#~ msgstr "Pinterest"
+
+#~ msgid "Количество записей"
+#~ msgstr "Number"
+
+#~ msgid "Классический"
+#~ msgstr "Classic"
+
+#~ msgid "Показать кнопку \"Все отзывы\""
+#~ msgstr "Button “All”"
+
+#~ msgid "Случайный порядок"
+#~ msgstr "Random"
+
+#~ msgid "Количество"
+#~ msgstr "Number"
+
+#~ msgid "Ссылка на страницу с отзывами"
+#~ msgstr "Link"
+
+#~ msgid "Отступ превью"
+#~ msgstr "Margin"
+
+#~ msgid "Фотографии"
+#~ msgstr "Images"
+
+#~ msgid "Ширина"
+#~ msgstr "Width"
+
+#~ msgid "По умолчанию 100%"
+#~ msgstr "Default 100%"
+
+#~ msgid "Время показа в мс"
+#~ msgstr "Time in mc"
+
+#~ msgid "Смена слайда"
+#~ msgstr "Duration"
+
+#~ msgid "Скорость в мс"
+#~ msgstr "Time in mc"
+
+#~ msgid "Полноэкранный"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Во всю страницу"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Прижать к верху"
+#~ msgstr "Absolute Position"
+
+#~ msgid "Должен быть первым"
+#~ msgstr "Should be the first"
+
+#~ msgid "Перемешать"
+#~ msgstr "Random"
+
+#~ msgid "Не показывать"
+#~ msgstr "Not"
+
+#~ msgid "Позиция точек"
+#~ msgstr "Dots Position"
+
+#~ msgid "Внутри слайдера"
+#~ msgstr "Inside"
+
+#~ msgid "Под слайдером"
+#~ msgstr "Below"
+
+#~ msgid "Размер превью"
+#~ msgstr "Thumbs Size"
+
+#~ msgid "Эффект"
+#~ msgstr "Effect"
+
+#~ msgid "Slide"
+#~ msgstr "Slide"
+
+#~ msgid "Fade"
+#~ msgstr "Fade"
+
+#~ msgid "Отображение"
+#~ msgstr "Inside"
+
+#~ msgid "Заполнить"
+#~ msgstr "Cover"
+
+#~ msgid "Сохранить пропорции"
+#~ msgstr "Contain"
+
+#~ msgid "Скрыть стрелки"
+#~ msgstr "Hide Arrows"
+
+#~ msgid "Стрелка вниз"
+#~ msgstr "Arrow Bottom"
+
+#~ msgid "Фоновая картинка"
+#~ msgstr "Background Image"
+
+#~ msgid "Высота блока"
+#~ msgstr "Height"
+
+#~ msgid "Одинакова на любых экранах"
+#~ msgstr "Same for all screens"
+
+#~ msgid "Смещение"
+#~ msgstr "Offset"
+
+#~ msgid "документации"
+#~ msgstr "More"
+
+#~ msgid "Текст блока"
+#~ msgstr "Text"
+
+#~ msgid "Будьте внимательны с количеством и размером текста - он может не поместиться целиком на небольших экранах."
+#~ msgstr "200 characters for small screens"
+
+#~ msgid "Название"
+#~ msgstr "Title"
+
+#~ msgid "При клике по маркеру"
+#~ msgstr "Inside marker"
+
+#~ msgid "Масштаб"
+#~ msgstr "Zoom"
+
+#~ msgid "Число от 1 до 23"
+#~ msgstr "Number from 1 to 23"
+
+#~ msgid "Стиль"
+#~ msgstr "Style"
+
+#~ msgid "Цвет карты"
+#~ msgstr "Map color"
+
+#~ msgid "Светлый"
+#~ msgstr "Light"
+
+#~ msgid "Темный"
+#~ msgstr "Dark"
+
+#~ msgid "Стандартный"
+#~ msgstr "Google"
+
+#~ msgid "Цвет маркера"
+#~ msgstr "Marker color"
+
+#~ msgid "По умолчанию красный"
+#~ msgstr "Default Red"
+
+#~ msgid "Точка на карте"
+#~ msgstr "Location"
+
+#~ msgid "Добавить маркер"
+#~ msgstr "Add Marker"
+
+#~ msgid "Место"
+#~ msgstr "Place"
+
+#~ msgid "Текст в маркере"
+#~ msgstr "Text"
+
+#~ msgid "ID профиля"
+#~ msgstr "Profile ID"
+
+#~ msgid "ID альбома"
+#~ msgstr "Album ID"
+
+#~ msgid "Галерея"
+#~ msgstr "Gallery"
+
+#~ msgid "Обратный порядок"
+#~ msgstr "Reverse Order"
+
+#~ msgid "Нет"
+#~ msgstr "Not"
+
+#~ msgid "Видео-файл"
+#~ msgstr "Video File"
+
+#~ msgid "Видео в формате m4v размером не более 5-10 мб"
+#~ msgstr "Video in m4v format, not larger than 5-10 MB"
+
+#~ msgid "Пропорции блока"
+#~ msgstr "The aspect ratio of the block"
+
+#~ msgid "3:1"
+#~ msgstr "3:1"
+
+#~ msgid "16:9"
+#~ msgstr "16:9"
+
+#~ msgid "Заглушить звук"
+#~ msgstr "Mute"
+
+#~ msgid "Добавить видео"
+#~ msgstr "Add Video"
+
+#~ msgid "Источник"
+#~ msgstr "Source"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid "ID видео"
+#~ msgstr "Video ID"
+
+#~ msgid "Видео-файл для превью формата mp4, m4v"
+#~ msgstr "MP4 or M4V Video File"
+
+#~ msgid "Описание к видео (не обязательно)"
+#~ msgstr "Video Description"
+
+#~ msgid "Максимум 20 штук"
+#~ msgstr "A maximum of 20 images"
+
+#~ msgid "Размер фотографий"
+#~ msgstr "Image Size"
+
+#~ msgid "В процентах"
+#~ msgstr "Percentage"
+
+#~ msgid "Ширина карты"
+#~ msgstr "Map Width"
+
+#~ msgid "Тип записи"
+#~ msgstr "Post Type"
+
+#~ msgid "Все или на выбор"
+#~ msgstr "Select Post Type"
+
+#~ msgid "Записи блога"
+#~ msgstr "Posts"
+
+#~ msgid "Серии"
+#~ msgstr "Works"
+
+#~ msgid "Цвет маркеров"
+#~ msgstr "Markers colors"
+
+#~ msgid "Картинка-маркер"
+#~ msgstr "Image marker"
+
+#~ msgid "Превью записи на карте"
+#~ msgstr "Thumb"
+
+#~ msgid "Тип слайдера"
+#~ msgstr "Slider Type"
+
+#~ msgid "Обычный"
+#~ msgstr "Default"
+
+#~ msgid "По умолчанию 1000px"
+#~ msgstr "Default 1000px"
+
+#~ msgid "Слайдов на виду"
+#~ msgstr "Count"
+
+#~ msgid "Но всегда 1 на мелких экранах"
+#~ msgstr "Only one on small screens"
+
+#~ msgid "Отступ между блоками"
+#~ msgstr "Margin"
+
+#~ msgid "По умолчанию 5"
+#~ msgstr "Default 5"
+
+#~ msgid "Во весь экран"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Кнопка Смотреть"
+#~ msgstr "Button More"
+
+#~ msgid "Расположение текста"
+#~ msgstr "Text Position"
+
+#~ msgid "Позиция блока на слайдере"
+#~ msgstr "Position"
+
+#~ msgid "По центру"
+#~ msgstr "Center"
+
+#~ msgid "По левому краю снизу"
+#~ msgstr "Left Bottom"
+
+#~ msgid "Шрифт заголовка"
+#~ msgstr "Title Font"
+
+#~ msgid "Адаптивный на разных экранах"
+#~ msgstr "Adaptive"
+
+#~ msgid "Малый"
+#~ msgstr "Small"
+
+#~ msgid "Средний"
+#~ msgstr "Medium"
+
+#~ msgid "Большой"
+#~ msgstr "Large"
+
+#~ msgid "Очень большой"
+#~ msgstr "Big"
+
+#~ msgid "Размер заголовков"
+#~ msgstr "Title Font Size"
+
+#~ msgid "По умолчанию 16"
+#~ msgstr "Default 16"
+
+#~ msgid "По умолчанию 14"
+#~ msgstr "Default 14"
+
+#~ msgid "Рамка вокруг блоков"
+#~ msgstr "Border"
+
+#~ msgid "Если отступ > 5"
+#~ msgstr "If margin > 5"
+
+#~ msgid "Видео"
+#~ msgstr "Video"
+
+#~ msgid "Ссылка на видео Vimeo или Youtube"
+#~ msgstr "URL Video"
+
+#~ msgid "При отсутствии загруженной картинки будет использовано превью с Vimeo/Youtube"
+#~ msgstr "If no images will be used in preview from Vimeo/Youtube"
+
+#~ msgid "Ссылка"
+#~ msgstr "URL"
+
+#~ msgid "Внешний вид"
+#~ msgstr "Appearance"
+
+#~ msgid "Галереи"
+#~ msgstr "Gallery"
+
+#~ msgid "Шаблон меню снизу"
+#~ msgstr "Header Four"
+
+#~ msgid "Одиночная серия"
+#~ msgstr "Entry"
+
+#~ msgid "Цвет ссылок меню"
+#~ msgstr "Menu Item Color"
+
+#~ msgid "Цвет фона меню"
+#~ msgstr "Background Navigation Color"
+
+#~ msgid "Не действует на выпадающее меню"
+#~ msgstr "Not work for dropdown menu"
+
+#~ msgid "Лого верхний отступ"
+#~ msgstr "Margin top"
+
+#~ msgid "Настройки классического вида"
+#~ msgstr "Classic Feedback Options"
+
+#~ msgid "Цвет текста"
+#~ msgstr "Font Color"
+
+#~ msgid "Цвет заголовков"
+#~ msgstr "Title Color"
+
+#~ msgid "Размер шрифта"
+#~ msgstr "Font Size"
+
+#~ msgid "Размер миниатюр"
+#~ msgstr "Thumbs Size"
+
+#~ msgid "Отступ между отзывами"
+#~ msgstr "Margin"
+
+#~ msgid "Расстояние между фото (для ленты)"
+#~ msgstr "Image Margin "
+
+#~ msgid "Когда количество колонок равно одной и размер галереи большой либо полный"
+#~ msgstr "When the number of columns is one and the size of the gallery, large or full"
+
+#~ msgid "Отключить автоматические диптихи для вертикалок в ленте фотографий"
+#~ msgstr "Disable diptychs"
+
+#~ msgid "Расстояние между фото (Masonry)"
+#~ msgstr "Masonry Image Margin"
+
+#~ msgid "Расстояние между фото (Justified)"
+#~ msgstr "Justified Image Margin"
+
+#~ msgid "Высота изображений (Justified)"
+#~ msgstr "Justified Image Height"
+
+#~ msgid "Расположение меню"
+#~ msgstr "Header"
+
+#~ msgid "Ширина шапки"
+#~ msgstr "Header Width"
+
+#~ msgid "По умолчанию во всю ширину"
+#~ msgstr "Default Full Width"
+
+#~ msgid "Не действует, когда меню свернуто на небольших экранах"
+#~ msgstr "When Width > 666px"
+
+#~ msgid "Полоска под меню"
+#~ msgstr "Bar under navigation"
+
+#~ msgid "Не будет показана на небольших экранах, когда меню свернуто в иконку"
+#~ msgstr "When screen > 666px"
+
+#~ msgid "Цвет и прозрачность полоски"
+#~ msgstr "Bar RGBA Color"
+
+#~ msgid "Ширина полоски"
+#~ msgstr "Bar Width"
+
+#~ msgid "Если хотите во всю ширину - оставьте поле пустым"
+#~ msgstr "Default 100%"
+
+#~ msgid "Шрифт меню"
+#~ msgstr "Navigation Font"
+
+#~ msgid "Размер шрифта меню"
+#~ msgstr "Nav Font Size"
+
+#~ msgid "Заглавный шрифт меню"
+#~ msgstr "Menu Item UpperCase"
+
+#~ msgid "Подчеркивать активный пункт меню"
+#~ msgstr "Current Menu Item Border Color"
+
+#~ msgid "Не показывать меню при прокрутке страницы"
+#~ msgstr "Don't show navigation when scrolling page"
+
+#~ msgid "Межбуквенный интервал в меню"
+#~ msgstr "Menu Item Kerning"
+
+#~ msgid "Расстояние между пунктами меню"
+#~ msgstr "Menu Item Margin"
+
+#~ msgid "Цвет текущей ссылки меню"
+#~ msgstr "Current Menu Item Color"
+
+#~ msgid "Показать стрелочку с пунктом меню, содержащим подменю"
+#~ msgstr "Dropdown Arrow"
+
+#~ msgid "Цвет фона выпадающего меню"
+#~ msgstr "Dropdown Background Color"
+
+#~ msgid "Не действует на выезжающем меню при прокрутке и, когда меню свернуто на небольших экранах"
+#~ msgstr "For screen > 666px"
+
+#~ msgid "Положение картинки в шапке"
+#~ msgstr "Header Image Position"
+
+#~ msgid "Пропорции картинки в шапке"
+#~ msgstr "Header Image Ratio"
+
+#~ msgid "3:2 (стандартный кадр)"
+#~ msgstr "3:2"
+
+#~ msgid "Фиксированная высота картинки"
+#~ msgstr "Fixed Height"
+
+#~ msgid "Включить параллакс-эффект для картинки в шапке"
+#~ msgstr "Parallax Image Header"
+
+#~ msgid "Высота картинки должна быть с запасом"
+#~ msgstr "Use the picture height bigger than the block"
+
+#~ msgid "Шрифт в названии сайта"
+#~ msgstr "Logo Font"
+
+#~ msgid "Размер названия сайта"
+#~ msgstr "Site Title Size"
+
+#~ msgid "Размер описания сайта"
+#~ msgstr "Description Size"
+
+#~ msgid "Отступ описания от названия"
+#~ msgstr "Site Description Margin"
+
+#~ msgid "Межбуквенный интервал в лого"
+#~ msgstr "Text Logo Kerning"
+
+#~ msgid "Отступ контента от меню"
+#~ msgstr "Margin Top from Header"
+
+#~ msgid "Цвет названия сайта или SVG-лого"
+#~ msgstr "Logo Color"
+
+#~ msgid "Цвет описания сайта"
+#~ msgstr "Description Color"
+
+#~ msgid "Автоматически менять цвет лого и меню на светлый"
+#~ msgstr "Dynamic Logo Color"
+
+#~ msgid "Лого"
+#~ msgstr "Logo"
+
+#~ msgid "Размер лого"
+#~ msgstr "Logo Size"
+
+#~ msgid "SVG код лого"
+#~ msgstr "SVG Logo Code"
+
+#~ msgid "Шрифт на сайте"
+#~ msgstr "Font"
+
+#~ msgid "Размер шрифта на сайте"
+#~ msgstr "Font Size"
+
+#~ msgid "Цвет фона"
+#~ msgstr "Background Color"
+
+#~ msgid "Цвет ссылок"
+#~ msgstr "Link Color"
+
+#~ msgid "Заголовок поверх картинки в шапке"
+#~ msgstr "Title over Image Header"
+
+#~ msgid "Если картинка в шапке серии установлена, то заголовок будет поверх"
+#~ msgstr "If you use image header"
+
+#~ msgid "Отступ заголовка сверху"
+#~ msgstr "Title Margin Top"
+
+#~ msgid "Заголовок слева"
+#~ msgstr "Title Left Align"
+
+#~ msgid "При использовании не на шапке"
+#~ msgstr "When Title not over Image Header"
+
+#~ msgid "Не отображать остальные серии в конце записи"
+#~ msgstr "Not show all series under entry"
+
+#~ msgid "Показать кнопки поделиться в социальных сетях"
+#~ msgstr "Display Share Links"
+
+#~ msgid "Блок с картой к серии в начале записи"
+#~ msgstr "Small Google Map under Title"
+
+#~ msgid "Ширина ленты блога"
+#~ msgstr "Blog Width"
+
+#~ msgid "Не показывать количество просмотров"
+#~ msgstr "Not show views count"
+
+#~ msgid "Не показывать метки в ленте блога"
+#~ msgstr "Disable Tags"
+
+#~ msgid "Не показывать рубрики под датой"
+#~ msgstr "Hide Category"
+
+#~ msgid "Не показывать кнопку \"Смотреть\""
+#~ msgstr "Not display “more” button"
+
+#~ msgid "Не показывать описание к записям"
+#~ msgstr "Hide Excerpt"
+
+#~ msgid "Боковая колонка в ленте блога"
+#~ msgstr "Sidebar"
+
+#~ msgid "Размер шрифта в боковой колонке"
+#~ msgstr "Sidebar Font Size"
+
+#~ msgid "Цвет текста в боковой колонке"
+#~ msgstr "Sidebar Font Color"
+
+#~ msgid "Цвет ссылок в боковой колонке"
+#~ msgstr "Sidebar Link Color"
+
+#~ msgid "Цвет заголовков виджетов"
+#~ msgstr "Sidebar Title Color"
+
+#~ msgid "Стиль заголовков в боковой колонке"
+#~ msgstr "Sidebar Title Style"
+
+#~ msgid "Простой"
+#~ msgstr "Simple"
+
+#~ msgid "На фоне"
+#~ msgstr "Background"
+
+#~ msgid "Полоски"
+#~ msgstr "Bars"
+
+#~ msgid "Цвет фона заголовков"
+#~ msgstr "Background Title Color"
+
+#~ msgid "Для второго варианта"
+#~ msgstr "Sidebar Title Color"
+
+#~ msgid "Открытая запись блога:"
+#~ msgstr "Single:"
+
+#~ msgid "Ширина записи"
+#~ msgstr "Width"
+
+#~ msgid "Название записи и дата слева"
+#~ msgstr "Title Left Align"
+
+#~ msgid "Заголовок и дата поверх картинки в шапке"
+#~ msgstr "Title on Header Image"
+
+#~ msgid "Если картинка в шапке записи установлена, то заголовок с датой будет поверх"
+#~ msgstr "If post has a header image"
+
+#~ msgid "Размер заголовка записи"
+#~ msgstr "Title Font Size"
+
+#~ msgid "Не показывать ссылки на следующую/предыдущую запись"
+#~ msgstr "Not Show Next/Prev Post Links"
+
+#~ msgid "Показать 3 похожие записи в конце поста"
+#~ msgstr "Show Related Posts"
+
+#~ msgid "Подборка происходит на основе одинаковых тегов"
+#~ msgstr "When same tags"
+
+#~ msgid "Цвет и прозрачность фона подвала"
+#~ msgstr "Background Footer Color"
+
+#~ msgid "Размер социальных иконок"
+#~ msgstr "Social Icons Size"
+
+#~ msgid "Расстояние между иконками"
+#~ msgstr "Icons Margin"
+
+#~ msgid "Сайт - AY"
+#~ msgstr "Site by AY"
+
+#~ msgid "Метки к сериям"
+#~ msgstr "Tags"
+
+#~ msgid "Новая серия"
+#~ msgstr "New Work"
+
+#~ msgid "Добавить новую серию"
+#~ msgstr "New Work"
+
+#~ msgid "Смотреть серию"
+#~ msgstr "See Work"
+
+#~ msgid "Искать серии"
+#~ msgstr "Search Work"
+
+#~ msgid "Серий не найдено"
+#~ msgstr "Not Found"
+
+#~ msgid "Отзыв"
+#~ msgstr "Review"
+
+#~ msgid "Добавить новый отзыв"
+#~ msgstr "New Review"
+
+#~ msgid "Редактировать отзыв"
+#~ msgstr "Edit Review"
+
+#~ msgid "Новый отзыв"
+#~ msgstr "New Review"
+
+#~ msgid "Все отзывы"
+#~ msgstr "More"
+
+#~ msgid "Просмотр отзывов на сайте"
+#~ msgstr "See Reviews"
+
+#~ msgid "Искать отзывы"
+#~ msgstr "Search"
+
+#~ msgid "Отзывов не найдено"
+#~ msgstr "Not Found"
+
+#~ msgid "Отзывов нет"
+#~ msgstr "Not Found"
+
+#~ msgid "Спойлер"
+#~ msgstr "Spoiler"
+
+#~ msgid "Кнопка"
+#~ msgstr "Button"
+
+#~ msgid "Открой меня"
+#~ msgstr "Click me"
+
+#~ msgid "Ocean"
+#~ msgstr "Ocean"
+
+#~ msgid "Ключ Google Map"
+#~ msgstr "Google Map Key"
+
+#~ msgid "Инстаграм Токен"
+#~ msgstr "Instagram Token"
+
+#~ msgid "Мета-теги для валидации сайта"
+#~ msgstr "Meta Tags for Yandex/Google"
+
+#~ msgid "Счетчики Yandex/Google"
+#~ msgstr "Metrika/Google Analytics Code"
+
+#~ msgid "Если вы используете другой плагин для просмотра фото"
+#~ msgstr "If you use other plugin for viewing images"
+
+#~ msgid "Отключить PhotoSwipe"
+#~ msgstr "Disable PhotoSwipe"
+
+#~ msgid "Не будут показываться уведомления о новых версиях шаблона"
+#~ msgstr "Not show notifications for new versions of the template"
+
+#~ msgid "Отключить обновления"
+#~ msgstr "Disable Updates"
+
+#~ msgid "Анимация блоков при загрузке и прокрутке (только для страниц)"
+#~ msgstr "Only for pages"
+
+#~ msgid "Анимация"
+#~ msgstr "Animation"
+
+#~ msgid "Показать редактор (если нужно из него перенести прошлый стандартный контент в блоки)"
+#~ msgstr "Display standard editor"
+
+#~ msgid "Показать вкладку HTML в редакторе"
+#~ msgstr "HTML tab"
+
+#~ msgid "HTML в блоках"
+#~ msgstr "For page bulder"
+
+#~ msgid "Отключить автоматический транслит ссылок записей и страниц (не рекомендуется)"
+#~ msgstr "Filename and link (from title) translitter"
+
+#~ msgid "Транслитерация ссылок"
+#~ msgstr "Russian translitter"
+
+#~ msgid "Настройки темы"
+#~ msgstr "Theme Options"
+
+#~ msgid "Настройки сохранены"
+#~ msgstr "Saved"
+
+#~ msgid "Сохранить настройки"
+#~ msgstr "Save"
+
+#~ msgid "Ocean Theme, версия "
+#~ msgstr "Ocean Theme, version  "
+
+#~ msgid "Описание шаблона"
+#~ msgstr "Description"
+
+#~ msgid "Документация"
+#~ msgstr "Documentation"
+
+#~ msgid "История обновлений"
+#~ msgstr "History"
+
+#~ msgid "Сообщить об ошибке или предложить идею"
+#~ msgstr "Feedback"
+
+#~ msgid "Окна по клику"
+#~ msgstr "Popups"
+
+#~ msgid "Изменения сохранены"
+#~ msgstr "Saved"
+
+#~ msgid "Сохранить изменения"
+#~ msgstr "Save"
+
+#~ msgid "Токен"
+#~ msgstr "Token"
+
+#~ msgid "Ширина картинки в процентах"
+#~ msgstr "Image Width"
+
+#~ msgid "Например, 20% или 70px"
+#~ msgstr "Example 20% or 70px"
+
+#~ msgid "Информация о фото при наведении"
+#~ msgstr "Display Image Info"
+
+#~ msgid "Комментарии"
+#~ msgstr "Comments"
+
+#~ msgid "Свежие комментарии к записям"
+#~ msgstr "Recent Comments"
+
+#~ msgid "Заголовок виджета"
+#~ msgstr "Widget Title"
+
+#~ msgid "Стиль иконок"
+#~ msgstr "Icons Style"
+
+#~ msgid "Обычные"
+#~ msgstr "Standard"
+
+#~ msgid "Круглые"
+#~ msgstr "Circle"
+
+#~ msgid "Популярные записи"
+#~ msgstr "Most Viewed Posts"
+
+#~ msgid "Самые просматриваемые записи"
+#~ msgstr "Most View Posts"
+
+#~ msgid "Количество постов:"
+#~ msgstr "Count:"
+
+#~ msgid "Фиксированный подвал"
+#~ msgstr "Footer Fixed"
+
+#~ msgid "Меню снизу"
+#~ msgstr "Header Four"
+
+#~ msgid "Ничего нет"
+#~ msgstr ":("
+
+#~ msgid "Метки:"
+#~ msgstr "Tags:"
+
+#~ msgid "Еще серии:"
+#~ msgstr "More:"
+
+#~ msgid "Похожие записи:"
+#~ msgstr "Related Posts:"
+
+#~ msgid "До"
+#~ msgstr "Before"
+
+#~ msgid "После"
+#~ msgstr "After"
+
+#~ msgid "Не обязательно, но при ее наличии заголовок станет кликабельным"
+#~ msgstr "Optional"
+
+#~ msgid "Будьте осторожны с количеством текста - он может не поместиться на экране мобильного устройства"
+#~ msgstr "200 characters for small screens"
+
+#~ msgid "Войдите, чтобы оставить комментарий"
+#~ msgstr "Login"
+
+#~ msgid "Комментарии только для вошедших через социальные сети"
+#~ msgstr "Comments only for WP Social Login Users"
+
+#~ msgid "Требует установленного и настроенного WP Social Login"
+#~ msgstr "Need WP Social Login Plugin"
+
+#~ msgid "Вы точно уверены в адресе страницы?"
+#~ msgstr "Oops!"
+
+#~ msgid "Ранние комментарии"
+#~ msgstr "Before"
+
+#~ msgid "Новые комментарии"
+#~ msgstr "After"
+
+#~ msgid "%2$s <a href=\"%3$s\">Выйти</a>"
+#~ msgstr "%2$s <a href=\"%3$s\">Logout</a>"
+
+#~ msgid "Сайт"
+#~ msgstr "Site"
+
+#~ msgid "Светлая"
+#~ msgstr "Dark"
+
+#~ msgid "Темная"
+#~ msgstr "Light"
+
+#~ msgid "По умолчанию 0px"
+#~ msgstr "Default 0"
+
+#~ msgid "Отступ"
+#~ msgstr "Margin"
+
+#~ msgid "По умолчанию 0.5%"
+#~ msgstr "Default 0.5%"
+
+#~ msgid "Превью записи вместо маркера"
+#~ msgstr "Posts Thumbs"
+
+#~ msgid "Настройка галерей"
+#~ msgstr "Gallery Options"
+
+#~ msgid "Положение фоновой картинки в шапке"
+#~ msgstr "Header Image Position"
+
+#~ msgid "Пропорции фоновой картинки в шапке"
+#~ msgstr "Header Image Aspect Ratio"
+
+#~ msgid "Не действует, если выбрана темная схема страницы"
+#~ msgstr "Not work with dark scheme"
+
+#~ msgid "Размер шрифта в меню"
+#~ msgstr "Navigation Font Size"
+
+#~ msgid "Ширина лого"
+#~ msgstr "Logo Width"
+
+#~ msgid "Ширина записи блога"
+#~ msgstr "Entry Width"
+
+#~ msgid "Боковая колонка в записи"
+#~ msgstr "Sidebar"
+
+#~ msgid "Пинтерест 2 ряда"
+#~ msgstr "Pinterest"
+
+#~ msgid "Header Four"
+#~ msgstr "Меню снизу"
+
+#~ msgid "Three columns"
+#~ msgstr "тыц"
+
+#~ msgid "Header"
+#~ msgstr "тыц"
+
+#~ msgid "Карта и описание"
+#~ msgstr "Map and Text"
+
+#~ msgid "Максимальная ширина блока"
+#~ msgstr "Max. Width"
+
+#~ msgid "По умолчанию во всю страницу"
+#~ msgstr "Default Full Width"
+
+#~ msgid "Появится при клике по маркеру"
+#~ msgstr "Will appear when you click on the marker"
+
+#~ msgid "Видео-файл для превью"
+#~ msgstr "Video file for thumb"
+
+#~ msgid "Рекомендуется размер не более 1mb формата mp4, m4v"
+#~ msgstr "Recommended size not more than 1mb mp4, m4v"
+
+#~ msgid "Скорость слайда"
+#~ msgstr "Slide Duration"
+
+#~ msgid "В высоту страницы"
+#~ msgstr "Full Height"
+
+#~ msgid "Полноэкранный слайдер"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Плавное появление контента при загрузке и прокрутке страниц"
+#~ msgstr "Scroll animations"
+
+#~ msgid "Анимация на сайте"
+#~ msgstr "Animation"
+
+#~ msgid "Ширина картинки"
+#~ msgstr "Width"
+
+#~ msgid "Популярные посты"
+#~ msgstr "Top Posts"
+
+#~ msgid "Записи, серии, страницы (выборочно)"
+#~ msgstr "Posts/Pages/Works"
+
+#~ msgid "Не будут открываться видео и фото в галереях"
+#~ msgstr "Not recommended"
+
+#~ msgid "Цвет и прозрачность фона меню"
+#~ msgstr "Menu Background RGBA"
+
+#~ msgid "Настройка колонок"
+#~ msgstr "Columns Options"
+
+#~ msgid "Настройка Masonry галереи"
+#~ msgstr "Masonry Options"
+
+#~ msgid "Расстояние между фото"
+#~ msgstr "Image Margin"
+
+#~ msgid "Размер текстового лого"
+#~ msgstr "Text Logo Size"
+
+#~ msgid "Цвет лого"
+#~ msgstr "Logo Color"
+
+#~ msgid "Настройка галереи"
+#~ msgstr "Gallery Options"
+
+#~ msgid "Изображение"
+#~ msgstr "Image"
+
+#~ msgid "Не будет открываться видео и фото в галереях"
+#~ msgstr "Not recommended"
+
+#~ msgid "Комментарии могут оставлять только залогиненные через соц. сети (требует установленного и настроенного WP Social Login)"
+#~ msgstr "Comments can leave only logged on users through social networks"
+
+#~ msgid "Только WP Social Login"
+#~ msgstr "Only WP Social Login"
+
+#~ msgid "Простой виджет"
+#~ msgstr "Simple Widget"
+
+#~ msgid "Footer"
+#~ msgstr "Footer"
