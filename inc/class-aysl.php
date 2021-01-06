@@ -237,6 +237,10 @@ class AYSL
     public function sl_action($ay_user_data = array())
     {
         session_start();
+        global $post;
+        if (!isset($_GET['code'])) {
+            $_SESSION['url'] = get_permalink($post->ID);
+        }
         $ay_user_data = $this->get_user_data();
         if (empty($ay_user_data)) {
             return;
